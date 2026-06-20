@@ -21,7 +21,14 @@
 6. `06_backfill_businesses.sql` — 누락 업장 정보 복구
 7. `07_platform_schema.sql` — 상품, 예약, 채팅
 8. `08_admin_content_schema.sql` — 문의, 분쟁, 리뷰, 커뮤니티
+9. `09_customer_signup_roles.sql` — 이용자와 파트너 신규 가입 역할 분리
+10. `10_customer_profile_organization.sql` — 이용자 학교·소속 정보 및 수정 권한 추가
+11. `11_admin_account_status_management.sql` — 운영진 회원·파트너 상태 관리 함수
+12. `12_partner_signup_business_creation.sql` — 파트너 가입 시 승인 대기 업장 자동 생성
+13. `13_public_catalog_and_offerings.sql` — 실제 업장·객실·상품 공개 카탈로그 연결
+14. `14_catalog_image_storage.sql` — 업장·객실·상품 사진 저장소 및 접근 정책
+15. `15_reservations_and_market_orders.sql` — 실제 숙소 예약·공판장 주문 및 상태 처리
 
 ## 다음 개발 시 주의
 
-현재 신규 가입 트리거는 모든 가입자를 `partner / pending`으로 생성합니다. 이용자 사이트 로그인·회원가입을 연결하기 전, 가입 유형에 따라 `user` 또는 `partner`를 안전하게 구분하는 09번 마이그레이션이 필요합니다.
+09번 적용 후 일반 이용자와 카카오 신규 가입자는 `user / approved`, 사업자 정보가 포함된 파트너 가입자는 `partner / pending`으로 생성됩니다. 브라우저가 `admin` 역할을 요청하더라도 관리자로 생성되지 않습니다.
