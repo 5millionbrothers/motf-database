@@ -1,34 +1,42 @@
-# moTF Supabase 데이터베이스 기록
+# moTF Supabase 데이터베이스
 
-이 저장소는 이용자 사이트와 사장님·운영팀 사이트가 함께 사용하는 Supabase SQL 실행 기록입니다.
+이 저장소는 이용자 웹과 사장님·운영팀 웹이 함께 사용하는 **유일한 DB 변경 원본**입니다.
+다른 저장소에 SQL 복사본을 두지 않습니다.
 
-## 중요한 원칙
+## 적용 원칙
 
-- 파일 번호는 Supabase에서 실제로 실행한 순서입니다.
-- 현재 프로젝트에는 01~08이 이미 적용되어 있으므로 새 프로젝트가 아닌 이상 다시 실행하지 않습니다.
-- 02와 05는 특정 계정을 관리자로 지정한 일회성 작업입니다.
-- 03과 06은 기존 가입자의 누락 데이터를 복구한 일회성 작업입니다.
-- 앞으로 변경할 때 기존 파일을 수정하지 말고 09부터 새 SQL 파일을 추가합니다.
-- 비밀번호, service_role 키, secret 키는 이 저장소에 절대 기록하지 않습니다.
+1. SQL은 파일 번호 순서대로 실행합니다.
+2. 이미 실행한 파일은 수정하거나 다시 실행하지 않습니다.
+3. 변경은 항상 다음 번호의 새 파일로 추가합니다.
+4. SQL 실행 전 Supabase 백업과 대상 프로젝트를 확인합니다.
+5. 비밀번호, `service_role`, 결제 Secret은 저장소에 기록하지 않습니다.
 
-## 현재 파일
+## 마이그레이션
 
-1. `01_initial_auth_and_business.sql` — 회원, 업장, 가입 트리거, 기본 RLS
-2. `02_promote_first_admin.sql` — 최초 운영자 지정 기록
-3. `03_backfill_profiles_and_permissions.sql` — 누락 프로필 복구 및 기본 권한
-4. `04_partner_review_function.sql` — 파트너 가입 승인·거절 함수
-5. `05_promote_replacement_admin.sql` — 변경된 운영자 지정 기록
-6. `06_backfill_businesses.sql` — 누락 업장 정보 복구
-7. `07_platform_schema.sql` — 상품, 예약, 채팅
-8. `08_admin_content_schema.sql` — 문의, 분쟁, 리뷰, 커뮤니티
-9. `09_customer_signup_roles.sql` — 이용자와 파트너 신규 가입 역할 분리
-10. `10_customer_profile_organization.sql` — 이용자 학교·소속 정보 및 수정 권한 추가
-11. `11_admin_account_status_management.sql` — 운영진 회원·파트너 상태 관리 함수
-12. `12_partner_signup_business_creation.sql` — 파트너 가입 시 승인 대기 업장 자동 생성
-13. `13_public_catalog_and_offerings.sql` — 실제 업장·객실·상품 공개 카탈로그 연결
-14. `14_catalog_image_storage.sql` — 업장·객실·상품 사진 저장소 및 접근 정책
-15. `15_reservations_and_market_orders.sql` — 실제 숙소 예약·공판장 주문 및 상태 처리
+- `01`~`08`: 회원·업장·권한·예약·채팅·운영 콘텐츠 기반
+- `09`~`12`: 이용자/파트너 역할 분리와 가입·승인 흐름
+- `13`~`15`: 공개 카탈로그·이미지·실제 예약/주문
+- `16`: 실시간 업장 채팅
+- `17`: 채팅 읽음과 문의·분쟁 관리
+- `18`: 운영 안정화와 가격 검증
 
-## 다음 개발 시 주의
+`18_production_hardening.sql`은 다음을 고칩니다.
 
-09번 적용 후 일반 이용자와 카카오 신규 가입자는 `user / approved`, 사업자 정보가 포함된 파트너 가입자는 `partner / pending`으로 생성됩니다. 브라우저가 `admin` 역할을 요청하더라도 관리자로 생성되지 않습니다.
+- 로그인 이용자의 공개 상품 조회
+- DB 원본 가격으로 예약·주문 금액 계산
+- 다른 업장 상품과 잘못된 수량 차단
+- 예약 직접 삽입 차단과 검증 RPC 제공
+- 상품 수정 시 기존 상품 ID 유지
+
+## 현재 적용 순서
+
+현황 문서상 운영 DB에는 `01`~`16`이 적용되어 있습니다.
+
+1. Supabase SQL Editor에서 `17` 적용 여부를 먼저 확인합니다.
+2. 미적용이면 `17`을 실행합니다.
+3. `18`을 실행합니다.
+4. 이용자 웹과 사장님 웹 수정본을 배포합니다.
+5. `docs/production-hardening-checklist.md`로 역할별 테스트를 진행합니다.
+
+SQL 실행 여부를 확인하지 않고 같은 파일을 반복 실행하지 마세요. 적용 후에는 이 README와
+현황 문서의 적용 번호를 함께 갱신합니다.
