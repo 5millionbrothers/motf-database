@@ -1,0 +1,21 @@
+name: quality
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  migrations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check migration numbering
+        run: |
+          expected=1
+          for file in $(find supabase -maxdepth 1 -name '*.sql' -printf '%f\n' | sort); do
+            number=$((10#${file:0:2}))
+            test "$number" -eq "$expected" || { echo "Expected migration $expected, found $file"; exit 1; }
+            expected=$((expected + 1))
+          done
+          test "$expected" -gt 1
