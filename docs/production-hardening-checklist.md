@@ -4,8 +4,18 @@
 
 - [ ] Supabase 프로젝트 ID가 운영 대상과 일치한다.
 - [ ] DB 백업을 만들었다.
-- [ ] 17번 적용 여부를 확인했다.
-- [ ] 18번 SQL 전체를 검토했다.
+- [ ] `01`~`23` SQL 적용 여부를 확인했다.
+- [ ] `22_business_coordinates.sql`과 `23_business_postcode_address.sql` 적용 후 업장 좌표 저장을 확인했다.
+- [ ] 이용자 Vercel 환경변수에 `NAVER_MAP_KEY_ID`, Supabase 공개 키, 결제 서버 키가 구분되어 들어 있다.
+- [ ] 사장님 Vercel 환경변수에 `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`, `NAVER_MAP_KEY_ID`가 들어 있다.
+
+## 도메인과 외부 서비스
+
+- [ ] `https://motf.co.kr`과 `https://www.motf.co.kr`이 이용자 Vercel 프로젝트에 연결되어 있다.
+- [ ] `https://motfowner.co.kr`과 `https://www.motfowner.co.kr`이 사장님 Vercel 프로젝트에 연결되어 있다.
+- [ ] Supabase Authentication Redirect URLs에 위 네 도메인과 필요한 Vercel Preview 주소가 등록되어 있다.
+- [ ] 네이버 클라우드 Maps에 `Web Dynamic Map`과 `Geocoding`이 활성화되어 있다.
+- [ ] 네이버 클라우드 Maps 허용 도메인에 이용자/사장님 운영 도메인이 모두 등록되어 있다.
 
 ## 이용자 권한
 
@@ -21,6 +31,8 @@
 - [ ] 0 이하 수량과 비활성 상품 주문이 거절된다.
 - [ ] 객실 최대 인원을 초과한 예약이 거절된다.
 - [ ] 상품 설명을 수정해도 기존 상품 ID가 유지된다.
+- [ ] 결제 대기표 `payment_intents`가 DB 원본 가격으로 생성된다.
+- [ ] 같은 결제 성공 URL을 새로고침해도 예약·주문이 중복 생성되지 않는다.
 
 ## 사장님·관리자
 
@@ -28,6 +40,9 @@
 - [ ] 사장님은 자기 업장의 거래와 채팅만 볼 수 있다.
 - [ ] 관리자는 전체 문의 상태를 RPC로 변경할 수 있다.
 - [ ] 공개된 데모 아이디와 비밀번호로 우회 로그인할 수 없다.
+- [ ] 사장님 주소 검색으로 우편번호와 도로명주소가 입력된다.
+- [ ] 사장님 주소 위치 확인 후 `latitude`, `longitude`, `location_verified_at`이 저장된다.
+- [ ] 좌표가 저장된 승인 업장이 이용자 지도에 마커로 표시된다.
 
 ## 실패 시
 
