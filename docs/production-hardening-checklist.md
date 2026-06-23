@@ -4,7 +4,7 @@
 
 - [ ] Supabase 프로젝트 ID가 운영 대상과 일치한다.
 - [ ] DB 백업을 만들었다.
-- [ ] `01`~`24` SQL 적용 여부를 확인했다.
+- [ ] `01`~`25` SQL 적용 여부를 확인했다.
 - [ ] `22_business_coordinates.sql`과 `23_business_postcode_address.sql` 적용 후 업장 좌표 저장을 확인했다.
 - [ ] 이용자 Vercel 환경변수에 `NAVER_MAP_KEY_ID`, Supabase 공개 키, 결제 서버 키가 구분되어 들어 있다.
 - [ ] 사장님 Vercel 환경변수에 `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`, `NAVER_MAP_KEY_ID`가 들어 있다.
@@ -33,7 +33,8 @@
 - [ ] 상품 설명을 수정해도 기존 상품 ID가 유지된다.
 - [ ] 결제 대기표 `payment_intents`가 DB 원본 가격으로 생성된다.
 - [ ] 같은 결제 성공 URL을 새로고침해도 예약·주문이 중복 생성되지 않는다.
-- [ ] 사장님 또는 운영팀이 선결제 요청을 거절하면 `refund_status = required`가 저장된다.
+- [ ] 사장님 또는 운영팀이 결제 완료된 요청을 거절하면 `refund_status = required`가 저장된다.
+- [ ] 결제 완료 기록이 없는 과거 테스트 요청은 거절해도 환불 예정으로 표시되지 않는다.
 - [ ] 이용자 마이페이지와 사장님/관리자 화면에 환불 예정 상태가 표시된다.
 
 ## 사장님·관리자
