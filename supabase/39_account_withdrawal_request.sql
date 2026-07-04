@@ -1,12 +1,17 @@
--- 이용자 회원 탈퇴 요청 처리.
--- 거래/정산 기록은 보존하고, 진행 중인 건이 없을 때 개인정보 일부를 비우고 계정을 정지 상태로 전환합니다.
+-- 이용자 회원 탈퇴 처리.
+-- 거래/정산 기록은 보존하고, 진행 중인 건이 없을 때 개인정보 일부와 이메일을 익명화합니다.
+-- Auth 이메일 변경은 Vercel 서버 API에서 service role key로 처리합니다.
 
 alter table public.profiles
   add column if not exists withdrawal_requested_at timestamptz,
-  add column if not exists withdrawal_reason text;
+  add column if not exists withdrawal_processed_at timestamptz,
+  add column if not exists withdrawal_reason text,
+  add column if not exists withdrawal_anonymized_email text;
 
+drop function if exists public.request_account_withdrawal(text);
 create or replace function public.request_account_withdrawal(
-  request_reason text default null
+  request_reason text default null,
+  anonymized_email text default null
 )
 returns void
 language plpgsql
@@ -53,11 +58,14 @@ begin
   update public.profiles
   set
     status = 'suspended',
+    email = coalesce(nullif(trim(anonymized_email), ''), email),
     full_name = '탈퇴 회원',
     phone = null,
     organization = null,
     withdrawal_requested_at = now(),
+    withdrawal_processed_at = now(),
     withdrawal_reason = nullif(trim(request_reason), ''),
+    withdrawal_anonymized_email = nullif(trim(anonymized_email), ''),
     updated_at = now()
   where id = auth.uid()
     and role = 'user';
@@ -74,5 +82,5 @@ begin
 end;
 $$;
 
-revoke all on function public.request_account_withdrawal(text) from public;
-grant execute on function public.request_account_withdrawal(text) to authenticated;
+revoke all on function public.request_account_withdrawal(text, text) from public;
+grant execute on function public.request_account_withdrawal(text, text) to authenticated;
