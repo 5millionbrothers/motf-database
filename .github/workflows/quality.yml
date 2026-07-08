@@ -1,0 +1,39 @@
+name: quality
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  migrations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate migration filenames
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          files=(supabase/*.sql)
+          test "${#files[@]}" -gt 0
+
+          declare -A seen
+          for file in "${files[@]}"; do
+            name="$(basename "$file")"
+            if [[ ! "$name" =~ ^[0-9]{2}[A-Z]?_.+\.sql$ ]]; then
+              echo "Invalid migration filename: $name"
+              exit 1
+            fi
+
+            order="${name%%_*}"
+            if [[ -n "${seen[$order]:-}" ]]; then
+              echo "Duplicate migration order: $order"
+              exit 1
+            fi
+            seen[$order]=1
+          done
+
+          test -f supabase/01_initial_auth_and_business.sql
+      - name: Prevent rollback scripts in migration directory
+        run: test -z "$(find supabase -maxdepth 1 -type f -iname '*rollback*' -print -quit)"
