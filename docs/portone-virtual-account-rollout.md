@@ -1,4 +1,6 @@
-# PortOne KG Inicis virtual-account rollout
+# [역사 문서] PortOne KG Inicis virtual-account rollout
+
+> PortOne/KG이니시스 신규 결제는 중단했습니다. 과거 거래 조회와 마이그레이션 재현을 위해서만 보존합니다.
 
 ## Flow
 
