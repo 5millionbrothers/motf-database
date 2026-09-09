@@ -1,0 +1,1757 @@
+{
+  "source": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+  "generatedAt": "2026-09-10",
+  "targetBusiness": "대성 공판장",
+  "pricePolicy": "테스트 단가 전 상품 10,000원",
+  "productCount": 38,
+  "products": [
+    {
+      "id": "3e6bbc6e-7daa-54d6-811f-c3966157d2b1",
+      "sheetRow": 2,
+      "name": "가평잣막걸리",
+      "manufacturer": "우리술",
+      "unit": "750mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "우리술 · 탁주 · 750mL · 알코올 6%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-002.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1QFexIBXmQ1OjmhAnl9kUEMe82uuJBX8u/view",
+      "detailSections": {
+        "manufacturer": "우리술",
+        "productType": "탁주",
+        "alcohol": "6%",
+        "ingredients": "정제수, 쌀(국산), 쌀입국, 잣(국산), 효모, 정제효소제, 이소말토올리고당, 수크랄로스(감미료), 스테비올배당체",
+        "allergens": "잣 함유. 밀·땅콩·복숭아·우유 사용 제품과 같은 시설에서 제조",
+        "storage": "냉장 1~10℃",
+        "expiry": "제품 상단 별도 표기일까지",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 가평잣생막걸리\n용량: 750mL / 308kcal\n식품유형: 탁주\n알코올: 6%\n원재료(판독 항목): 정제수, 쌀(국산), 쌀입국, 잣(국산), 효모, 정제효소제, 이소말토올리고당, 수크랄로스(감미료), 스테비올배당체\n알레르기: 잣 함유. 밀·땅콩·복숭아·우유 사용 제품과 같은 시설에서 제조\n업소: (주)우리술 / 가평생산실\n보관: 냉장 1~10℃\n소비기한: 제품 상단 별도 표기일까지",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 2,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 101,
+      "image": {
+        "sourceBytes": 2152955,
+        "webBytes": 31226,
+        "sourceSize": [
+          1305,
+          3736
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "f264f4df-b000-511c-ba75-37e1430c7857",
+      "sheetRow": 3,
+      "name": "매화수",
+      "manufacturer": "하이트진로",
+      "unit": "300mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 과실주 · 300mL · 알코올 9%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-003.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1z5DE_Y5mGfyaP5I62sY7s0jQENo9fDLe/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "과실주",
+        "alcohol": "9%",
+        "ingredients": "매실주원액(매실: 국산), 백포도주(스페인산), 설탕, 기타과당, 주정, 매실농축과즙(국산), 향료 2종, 구연산, 카라멜색소 IV",
+        "allergens": "무수아황산 함유. 복숭아 혼입 가능",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기에 표시",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 매화수\n용량: 300mL\n식품유형: 과실주\n알코올: 9%\n원재료(판독 항목): 매실주원액(매실: 국산), 백포도주(스페인산), 설탕, 기타과당, 주정, 매실농축과즙(국산), 향료 2종, 구연산, 카라멜색소 IV\n알레르기: 무수아황산 함유. 복숭아 혼입 가능\n제조사: 하이트진로\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기에 표시",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 3,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 102,
+      "image": {
+        "sourceBytes": 1647956,
+        "webBytes": 31100,
+        "sourceSize": [
+          1015,
+          3030
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "10e807de-081b-59bf-a892-98abc0239305",
+      "sheetRow": 4,
+      "name": "백세주",
+      "manufacturer": "국순당",
+      "unit": "375mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "국순당 · 살균약주 · 375mL · 알코올 13%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-004.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1aHvekNygPxUvO5tjqYYIk26YX0pTWP_w/view",
+      "detailSections": {
+        "manufacturer": "국순당",
+        "productType": "살균약주",
+        "alcohol": "13%",
+        "ingredients": "정제수, 쌀(국산), 전분(외국산), 기타과당, 인삼(국산), 건오미자(중국산), 생오미자, 복령, 구기자, 산수유, 산약, 산사자, 수국, 생강, 감초, 황기, 오가피나무, 효모, 국(밀), 구연산",
+        "allergens": "밀 함유",
+        "storage": "고온·냉동·직사광선 및 충격을 피할 것",
+        "expiry": "제조일부터 5년까지",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 백세주\n용량: 375mL\n식품유형: 살균약주\n알코올: 13%\n원재료(판독 항목): 정제수, 쌀(국산), 전분(외국산), 기타과당, 인삼(국산), 건오미자(중국산), 생오미자, 복령, 구기자, 산수유, 산약, 산사자, 수국, 생강, 감초, 황기, 오가피나무, 효모, 국(밀), 구연산\n알레르기: 밀 함유\n제조사: (주)국순당 / 강원도 횡성군 둔내면 강변로 975\n소비기한: 제조일부터 5년까지\n보관: 고온·냉동·직사광선 및 충격을 피할 것",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 4,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 103,
+      "image": {
+        "sourceBytes": 1749595,
+        "webBytes": 28802,
+        "sourceSize": [
+          1093,
+          3223
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "421d5aee-6641-5365-ba6b-4b1addf9fc55",
+      "sheetRow": 6,
+      "name": "봄이막걸리",
+      "manufacturer": "지평주조",
+      "unit": "750mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "지평주조 · 살균탁주 · 750mL · 알코올 5.6%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-006.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1u6i6HiddrT9kNLmX7qWU-ifODYknaJ-M/view",
+      "detailSections": {
+        "manufacturer": "지평주조",
+        "productType": "살균탁주",
+        "alcohol": "5.6%",
+        "ingredients": "정제수, 쌀 10.2%(국내산), 국(밀), 기타과당, 구연산, 수크랄로스, 이산화탄소, 혼합제제",
+        "allergens": "밀 함유",
+        "storage": "직사광선을 피해 서늘한 곳",
+        "expiry": "용기 상단 별도 표기",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 봄이\n용량: 750mL\n식품유형: 살균탁주\n알코올: 5.6%\n원재료(판독 항목): 정제수, 쌀 10.2%(국내산), 국(밀), 기타과당, 구연산, 수크랄로스, 이산화탄소, 혼합제제\n알레르기: 밀 함유\n제조사: (주)지평주조 / 충청남도 천안시 동남구 성남면 5산단4로 18\n보관: 직사광선을 피해 서늘한 곳\n소비기한: 용기 상단 별도 표기",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 6,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 104,
+      "image": {
+        "sourceBytes": 1912817,
+        "webBytes": 22228,
+        "sourceSize": [
+          1312,
+          3698
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "c4a73ce0-0ab1-54d2-8145-a28790a4feb3",
+      "sheetRow": 7,
+      "name": "새로",
+      "manufacturer": "롯데칠성음료",
+      "unit": "360mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 소주 · 360mL · 알코올 15.7%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-007.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1i9_NyYwi91dceax_d6ZE0ipbsDBzNsRc/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "소주",
+        "alcohol": "15.7%",
+        "ingredients": "정제수, 주정, 쌀증류주(쌀: 국산 100%), 효소처리스테비아, 에리스리톨, 스테비올배당체, DL-알라닌, 아르지닌, 혼합제제",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳. 뜨거운 곳·유기용매와 함께 두지 말 것",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 상단 또는 뚜껑 표기",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 새로\n용량: 360mL\n식품유형: 소주\n알코올: 15.7%\n원재료(판독 항목): 정제수, 주정, 쌀증류주(쌀: 국산 100%), 효소처리스테비아, 에리스리톨, 스테비올배당체, DL-알라닌, 아르지닌, 혼합제제\n제조사: 롯데칠성음료(주)\n보관: 직사광선을 피하고 서늘한 곳. 뜨거운 곳·유기용매와 함께 두지 말 것\n제조일: 용기 상단 또는 뚜껑 표기",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 7,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 105,
+      "image": {
+        "sourceBytes": 1615079,
+        "webBytes": 31604,
+        "sourceSize": [
+          1068,
+          2990
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "f7fffcaa-cd19-5206-bbed-71bab9a78ac2",
+      "sheetRow": 8,
+      "name": "새로",
+      "manufacturer": "롯데칠성음료",
+      "unit": "360mL×6병",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 360mL×6병",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-008.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1laoI6gNyLlHTB17fjYTu7GHNsOsIJLIk/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 360mL×6병\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 8,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 106,
+      "image": {
+        "sourceBytes": 5532231,
+        "webBytes": 60482,
+        "sourceSize": [
+          3339,
+          3351
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "f675b8bd-baf7-5b63-b36d-f869e22bea2b",
+      "sheetRow": 9,
+      "name": "새로",
+      "manufacturer": "롯데칠성음료",
+      "unit": "640mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 소주 · 640mL · 알코올 15.7%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-009.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1rz2QUmgseTPrhgOAACwU5ezKoMbrGdVm/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "소주",
+        "alcohol": "15.7%",
+        "ingredients": "정제수, 주정, 쌀증류주(쌀: 국산 100%), 감미료(효소처리스테비아, 에리스리톨, 스테비올배당체), DL-알라닌, 아르지닌, 혼합제제(로이신, 이소로이신, 발린)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳. 뜨거운 곳·유기용매와 함께 두지 말 것",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 상단 또는 뚜껑 표기",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 새로\n용량: 640mL\n식품유형: 소주\n알코올: 15.7%\n원재료: 정제수, 주정, 쌀증류주(쌀: 국산 100%), 감미료(효소처리스테비아, 에리스리톨, 스테비올배당체), DL-알라닌, 아르지닌, 혼합제제(로이신, 이소로이신, 발린)\n제조사: 롯데칠성음료(주) / 강원도 강릉시 관솔길 7\n보관: 직사광선을 피하고 서늘한 곳. 뜨거운 곳·유기용매와 함께 두지 말 것\n제조일: 용기 상단 또는 뚜껑 표기",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 9,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 107,
+      "image": {
+        "sourceBytes": 1827811,
+        "webBytes": 27244,
+        "sourceSize": [
+          1230,
+          3453
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "892d4343-6ee5-5ddc-90ba-6488019d6457",
+      "sheetRow": 10,
+      "name": "새로",
+      "manufacturer": "롯데칠성음료",
+      "unit": "640mL×4병",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 640mL×4병",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-010.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/15_gEb-pKk7vsMVbfw5jlim73n2gZTEcS/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 640mL×4병\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 10,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 108,
+      "image": {
+        "sourceBytes": 4673441,
+        "webBytes": 45040,
+        "sourceSize": [
+          2584,
+          3800
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "b2283bf4-3500-5766-b162-c4b1e6b48e19",
+      "sheetRow": 11,
+      "name": "새로 다래",
+      "manufacturer": "롯데칠성음료",
+      "unit": "360mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 일반증류주 · 360mL · 알코올 12.0%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-011.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1PlOnkqhFOz_Lkux5YGob_KTvQhd8XEAp/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "일반증류주",
+        "alcohol": "12.0%",
+        "ingredients": "정제수, 주정, 산도조절제, 감미료(에리스리톨, 수크랄로스), 착색료(식용색소황색4호)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 상단 또는 뚜껑에 표기 원재료 전체와 세부 함량은 뒷면 원본 재확인 필요",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 새로 다래\n용량: 360mL\n식품유형: 일반증류주\n알코올: 12.0%\n원재료(판독 항목): 정제수, 주정, 산도조절제, 감미료(에리스리톨, 수크랄로스), 착색료(식용색소황색4호)\n제조사: 롯데칠성음료(주)\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기 상단 또는 뚜껑에 표기\n원재료 전체와 세부 함량은 뒷면 원본 재확인 필요",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 11,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 109,
+      "image": {
+        "sourceBytes": 1592991,
+        "webBytes": 33588,
+        "sourceSize": [
+          1045,
+          2874
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "025d3390-421c-5ddb-9a9d-c2461acfea22",
+      "sheetRow": 12,
+      "name": "새로 살구",
+      "manufacturer": "롯데칠성음료",
+      "unit": "360mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 일반증류주 · 360mL · 알코올 12.0%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-012.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1UT5-no38-X4CvCtCZ-FjGT7ehuOGddox/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "일반증류주",
+        "alcohol": "12.0%",
+        "ingredients": "정제수, 주정, 살구과즙, 감미료(수크랄로스, 에리스리톨), 착색료(식용색소황색4호)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 상단 또는 뚜껑에 표기 원재료 전체와 세부 함량은 뒷면 원본 재확인 필요",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 새로 살구\n용량: 360mL\n식품유형: 일반증류주\n알코올: 12.0%\n원재료(판독 항목): 정제수, 주정, 살구과즙, 감미료(수크랄로스, 에리스리톨), 착색료(식용색소황색4호)\n제조사: 롯데칠성음료(주)\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기 상단 또는 뚜껑에 표기\n원재료 전체와 세부 함량은 뒷면 원본 재확인 필요",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 12,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 110,
+      "image": {
+        "sourceBytes": 1718851,
+        "webBytes": 33768,
+        "sourceSize": [
+          1080,
+          2991
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "a0deb3a9-23e3-57b9-b562-c03f381d1403",
+      "sheetRow": 14,
+      "name": "순하리 레몬진 7%",
+      "manufacturer": "롯데칠성음료",
+      "unit": "캔 / 500mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 캔 / 500mL · 알코올 7%(앞면 표기)",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-014.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/11-WoATkZ5w0brsr-UpxRzYq9k420pW0h/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "7%(앞면 표기)",
+        "ingredients": "정제수, 레몬침출과실주[레몬(미국산), 청포도(스페인산)], 이산화탄소, 레몬청징농축액(이스라엘산), 구연산삼나트륨, 수크랄로스, 아세설팜칼륨, β-카로틴",
+        "allergens": "무수아황산 함유. 밀·복숭아·대두 혼입 가능",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "캔 파손 위험, 결빙·충격 주의 원재료 전체는 뒷면 원본 참조",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 순하리 레몬진 7%\n용량: 500mL\n알코올: 7%(앞면 표기)\n원재료(판독 항목): 정제수, 레몬침출과실주[레몬(미국산), 청포도(스페인산)], 이산화탄소, 레몬청징농축액(이스라엘산), 구연산삼나트륨, 수크랄로스, 아세설팜칼륨, β-카로틴\n알레르기: 무수아황산 함유. 밀·복숭아·대두 혼입 가능\n주의: 캔 파손 위험, 결빙·충격 주의\n원재료 전체는 뒷면 원본 참조",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 14,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 111,
+      "image": {
+        "sourceBytes": 2097641,
+        "webBytes": 62346,
+        "sourceSize": [
+          1045,
+          2399
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "21af4da5-f302-5a13-a150-e77edd38229a",
+      "sheetRow": 15,
+      "name": "순하리 레몬진 9%",
+      "manufacturer": "롯데칠성음료",
+      "unit": "캔 / 500mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 캔 / 500mL · 알코올 9%(앞면 표기)",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-015.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1aANV0E1bF5zA4LwcbXKCyNdI2R928T62/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "9%(앞면 표기)",
+        "ingredients": "정제수, 레몬침출과실주[레몬(미국산), 청포도(스페인산)], 이산화탄소, 레몬청징농축액(이스라엘산), 구연산삼나트륨, 수크랄로스, 아세설팜칼륨, β-카로틴",
+        "allergens": "무수아황산 함유. 밀·복숭아·대두 혼입 가능",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "캔 파손 위험, 결빙·충격 주의 원재료 전체는 뒷면 원본 참조",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 순하리 레몬진 9%\n용량: 500mL / 270kcal(앞면 표기)\n알코올: 9%(앞면 표기)\n원재료(판독 항목): 정제수, 레몬침출과실주[레몬(미국산), 청포도(스페인산)], 이산화탄소, 레몬청징농축액(이스라엘산), 구연산삼나트륨, 수크랄로스, 아세설팜칼륨, β-카로틴\n알레르기: 무수아황산 함유. 밀·복숭아·대두 혼입 가능\n주의: 캔 파손 위험, 결빙·충격 주의\n원재료 전체는 뒷면 원본 참조",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 15,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 112,
+      "image": {
+        "sourceBytes": 1641100,
+        "webBytes": 47758,
+        "sourceSize": [
+          1001,
+          2425
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "eda58892-a2e0-5881-9473-6c34b9c31672",
+      "sheetRow": 16,
+      "name": "순하리 레몬진 9%",
+      "manufacturer": "롯데칠성음료",
+      "unit": "캔 / 500mL×6입",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 캔 / 500mL×6입",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-016.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1l6zeu4hJwJVjSLxWwGclkfNGNDiQosPy/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 캔 / 500mL×6입\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 16,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 113,
+      "image": {
+        "sourceBytes": 6202099,
+        "webBytes": 89058,
+        "sourceSize": [
+          3145,
+          2914
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "9af30e6d-f1c4-592d-a43a-691bd9d3bfb7",
+      "sheetRow": 17,
+      "name": "순하리 상그리아진",
+      "manufacturer": "롯데칠성음료",
+      "unit": "캔 / 500mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 과실주 · 캔 / 500mL · 알코올 7%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-017.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1STkF9xeNEcxJAYCN_Rzw8_hVKZ3WLaea/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "과실주",
+        "alcohol": "7%",
+        "ingredients": "정제수, 오렌지사과침출과실주[오렌지(미국산), 사과(국산)], 이산화탄소, 사과청징농축액(국산), 적포도청징농축액(칠레산), 구연산, 구연산삼나트륨, 향료, 아세설팜칼륨, 수크랄로스",
+        "allergens": "무수아황산 함유. 밀·복숭아·대두 사용 제품과 같은 시설에서 제조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 밑면에 표시",
+        "cautions": "탄산가스 함유, 캔 파손 위험",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 순하리 상그리아진\n용량: 500mL\n식품유형: 과실주\n알코올: 7%\n원재료(판독 항목): 정제수, 오렌지사과침출과실주[오렌지(미국산), 사과(국산)], 이산화탄소, 사과청징농축액(국산), 적포도청징농축액(칠레산), 구연산, 구연산삼나트륨, 향료, 아세설팜칼륨, 수크랄로스\n알레르기: 무수아황산 함유. 밀·복숭아·대두 사용 제품과 같은 시설에서 제조\n제조사: 롯데칠성음료(주)\n제조일: 용기 밑면에 표시\n주의: 탄산가스 함유, 캔 파손 위험",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 17,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 114,
+      "image": {
+        "sourceBytes": 2171433,
+        "webBytes": 63358,
+        "sourceSize": [
+          1036,
+          2413
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "42736d92-e3bc-5dac-a154-0a6d66abbb5f",
+      "sheetRow": 18,
+      "name": "순하리 상그리아진",
+      "manufacturer": "롯데칠성음료",
+      "unit": "캔 / 500mL×6입",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 캔 / 500mL×6입",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-018.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1yXYw3zAu2hy2tDv2SWkps1oOEz20DHJy/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 캔 / 500mL×6입\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 18,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 115,
+      "image": {
+        "sourceBytes": 5908859,
+        "webBytes": 90420,
+        "sourceSize": [
+          2978,
+          2759
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "8b08fd30-aa2b-56cf-8668-226b411e3b73",
+      "sheetRow": 19,
+      "name": "순하리 유자진",
+      "manufacturer": "롯데칠성음료",
+      "unit": "캔 / 500mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 캔 / 500mL · 알코올 4.5%(앞면 표기)",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-019.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/10gYjygELvEC57noijTWzJ0cJyAoe8r2N/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "4.5%(앞면 표기)",
+        "ingredients": "정제수, 유자침출과실주[유자(국산), 청포도(스페인산)], 구연산, 이산화탄소, 유자청징농축액(유자: 국산), 설탕, 향료, 수크랄로스, 아세설팜칼륨, β-카로틴",
+        "allergens": "무수아황산 함유. 밀·복숭아·대두 혼입 가능",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "탄산가스 함유, 캔 파손 위험 원재료 전체는 뒷면 원본 참조",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 순하리 유자진\n용량: 500mL\n알코올: 4.5%(앞면 표기)\n원재료(판독 항목): 정제수, 유자침출과실주[유자(국산), 청포도(스페인산)], 구연산, 이산화탄소, 유자청징농축액(유자: 국산), 설탕, 향료, 수크랄로스, 아세설팜칼륨, β-카로틴\n알레르기: 무수아황산 함유. 밀·복숭아·대두 혼입 가능\n제조사: 롯데칠성음료(주) / 충청북도 충주시 대소원면 메가폴리스로 87\n주의: 탄산가스 함유, 캔 파손 위험\n원재료 전체는 뒷면 원본 참조",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 19,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 116,
+      "image": {
+        "sourceBytes": 1991676,
+        "webBytes": 57594,
+        "sourceSize": [
+          1037,
+          2439
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "c746523d-33a7-5d27-99b9-ac3ca4be312a",
+      "sheetRow": 20,
+      "name": "순하리 유자진",
+      "manufacturer": "롯데칠성음료",
+      "unit": "캔 / 500mL×6입",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 캔 / 500mL×6입",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-020.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/16dlMTTpbbXXCE8U4Bpe2lENA_T0G8Hgt/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 캔 / 500mL×6입\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 20,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 117,
+      "image": {
+        "sourceBytes": 3351019,
+        "webBytes": 96366,
+        "sourceSize": [
+          2138,
+          1982
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "10871967-b196-5287-a91b-a1cedc0d72fd",
+      "sheetRow": 21,
+      "name": "순하리 자몽진",
+      "manufacturer": "롯데칠성음료",
+      "unit": "캔 / 500mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 과실주 · 캔 / 500mL · 알코올 9%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-021.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1dZ_-nt-ws5oSY3GtRpV17Tn_lT8-f_Xe/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "과실주",
+        "alcohol": "9%",
+        "ingredients": "정제수, 자몽침출과실주[자몽(미국산), 청포도(스페인산)], 구연산삼나트륨, 향료 3종(자몽향 2종, 레몬향 1종), 아세설팜칼륨, 수크랄로스",
+        "allergens": "밀·복숭아·대두 혼입 가능",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 밑면에 표시 원재료 전체는 뒷면 원본 참조",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 순하리 자몽진\n용량: 500mL / 265kcal(앞면 표기)\n식품유형: 과실주\n알코올: 9%\n원재료(판독 항목): 정제수, 자몽침출과실주[자몽(미국산), 청포도(스페인산)], 구연산삼나트륨, 향료 3종(자몽향 2종, 레몬향 1종), 아세설팜칼륨, 수크랄로스\n알레르기: 밀·복숭아·대두 혼입 가능\n제조사: 롯데칠성음료(주) / 충청북도 충주시 대소원면 메가폴리스로 87\n제조일: 용기 밑면에 표시\n원재료 전체는 뒷면 원본 참조",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 21,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 118,
+      "image": {
+        "sourceBytes": 957060,
+        "webBytes": 52740,
+        "sourceSize": [
+          718,
+          1649
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "3c00c2b6-a136-5ad3-a890-2d3d36e78eb3",
+      "sheetRow": 23,
+      "name": "장수막걸리",
+      "manufacturer": "서울장수",
+      "unit": "750mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "서울장수 · 탁주 · 750mL · 알코올 6%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-023.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1d-ODUifj8FN2JVmsKDmvpv4Pd3jE2vZV/view",
+      "detailSections": {
+        "manufacturer": "서울장수",
+        "productType": "탁주",
+        "alcohol": "6%",
+        "ingredients": "쌀(외국산), 팽화미(외국산), 정제수, 국(밀), 효모, 아스파탐(페닐알라닌 함유), 구연산",
+        "allergens": "밀 함유",
+        "storage": "냉장보관",
+        "expiry": "상단 별도 표기",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 장수 생막걸리\n용량: 750mL\n식품유형: 탁주\n알코올: 6%\n원재료(판독 항목): 쌀(외국산), 팽화미(외국산), 정제수, 국(밀), 효모, 아스파탐(페닐알라닌 함유), 구연산\n알레르기: 밀 함유\n보관: 냉장보관\n소비기한: 상단 별도 표기\n촬영 용기 표시: 2026.09.05 제조 / 2026.09.18까지",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 23,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 119,
+      "image": {
+        "sourceBytes": 1171717,
+        "webBytes": 30214,
+        "sourceSize": [
+          902,
+          2528
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "805d292a-59d9-57fd-b630-ec501d087b22",
+      "sheetRow": 24,
+      "name": "좋은데이 블루베리",
+      "manufacturer": "무학",
+      "unit": "360mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "무학 · 리큐르 · 360mL · 알코올 5%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-024.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1PkRx-iOHsNBBYekAMUWz5V39s1wN5FNl/view",
+      "detailSections": {
+        "manufacturer": "무학",
+        "productType": "리큐르",
+        "alcohol": "5%",
+        "ingredients": "정제수, 주정, 블루베리청징농축액(블루베리: 미국산), 기타과당, 설탕, 탄산가스, 구연산, 향료(블루베리향), 수크랄로스(감미료), 착색료(식용색소청색제1호, 식용색소적색제40호)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "주상표 하단 표기일",
+        "cautions": "직사광선에 의해 색빠짐이 있을 수 있음",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 블루베리 톡! 스파클링 좋은데이\n용량: 360mL\n식품유형: 리큐르\n알코올: 5%\n원재료: 정제수, 주정, 블루베리청징농축액(블루베리: 미국산), 기타과당, 설탕, 탄산가스, 구연산, 향료(블루베리향), 수크랄로스(감미료), 착색료(식용색소청색제1호, 식용색소적색제40호)\n제조사: (주)무학 중리공장 / 경상남도 창원시 마산회원구 내서읍 중리공단로4길 26-56\n제조일: 주상표 하단 표기일\n주의: 직사광선에 의해 색빠짐이 있을 수 있음",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 24,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 120,
+      "image": {
+        "sourceBytes": 1716936,
+        "webBytes": 28466,
+        "sourceSize": [
+          1109,
+          3171
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "3f426162-306f-5589-b376-2a5a6df6d831",
+      "sheetRow": 25,
+      "name": "지평 생막걸리",
+      "manufacturer": "지평주조",
+      "unit": "750mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "지평주조 · 탁주 · 750mL · 알코올 5%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-025.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1ZqI8Tie-vWzYLglIcRM7WR1TZdWf01Pz/view",
+      "detailSections": {
+        "manufacturer": "지평주조",
+        "productType": "탁주",
+        "alcohol": "5%",
+        "ingredients": "정제수, 쌀 11.35%(국내산), 국(밀), 수크랄로스(감미료), 아세설팜칼륨(감미료), 혼합제제1(탄산칼슘, 황산칼슘, 글루코아밀라아제, α-아밀라아제), 혼합제제2(효모, 소르비탄지방산에스테르, 비타민C)",
+        "allergens": "밀 함유",
+        "storage": "10℃ 이하에서 세워서 냉장보관",
+        "expiry": "용기 상단 별도 표시",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 지평 생막걸리\n용량: 750mL\n식품유형: 탁주\n알코올: 5%\n원재료: 정제수, 쌀 11.35%(국내산), 국(밀), 수크랄로스(감미료), 아세설팜칼륨(감미료), 혼합제제1(탄산칼슘, 황산칼슘, 글루코아밀라아제, α-아밀라아제), 혼합제제2(효모, 소르비탄지방산에스테르, 비타민C)\n알레르기: 밀 함유\n제조사: (주)지평주조\n보관: 10℃ 이하에서 세워서 냉장보관\n소비기한: 용기 상단 별도 표시\n촬영 용기 표시: 냉장 26.09.12까지",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 25,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 121,
+      "image": {
+        "sourceBytes": 1925751,
+        "webBytes": 25488,
+        "sourceSize": [
+          1291,
+          3711
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "68cdbd90-683f-52ea-95ba-0ecb78d9a5a3",
+      "sheetRow": 26,
+      "name": "지평 생막걸리",
+      "manufacturer": "지평주조",
+      "unit": "1.7L",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "지평주조 · 탁주 · 1.7L · 알코올 5%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-026.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1Ux4Vg2dS5LwwiLuBAiztX_9gGmdYOzz5/view",
+      "detailSections": {
+        "manufacturer": "지평주조",
+        "productType": "탁주",
+        "alcohol": "5%",
+        "ingredients": "정제수, 쌀 11.35%(국내산), 국(밀), 수크랄로스(감미료), 아세설팜칼륨(감미료), 혼합제제1(탄산칼슘, 황산칼슘, 글루코아밀라아제, α-아밀라아제), 혼합제제2(효모, 소르비탄지방산에스테르, 비타민C)",
+        "allergens": "밀 함유",
+        "storage": "10℃ 이하에서 세워서 냉장보관",
+        "expiry": "용기 상단 별도 표시",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "생효모 후발효로 가스 발생 가능",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 지평 생막걸리\n용량: 1.7L\n식품유형: 탁주\n알코올: 5%\n원재료: 정제수, 쌀 11.35%(국내산), 국(밀), 수크랄로스(감미료), 아세설팜칼륨(감미료), 혼합제제1(탄산칼슘, 황산칼슘, 글루코아밀라아제, α-아밀라아제), 혼합제제2(효모, 소르비탄지방산에스테르, 비타민C)\n알레르기: 밀 함유\n제조사: (주)지평주조\n보관: 10℃ 이하에서 세워서 냉장보관\n소비기한: 용기 상단 별도 표시\n주의: 생효모 후발효로 가스 발생 가능",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 26,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 122,
+      "image": {
+        "sourceBytes": 2300731,
+        "webBytes": 26352,
+        "sourceSize": [
+          1509,
+          3698
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "a5d34d4e-0527-519c-b947-279a210b7751",
+      "sheetRow": 27,
+      "name": "진로 이즈백",
+      "manufacturer": "하이트진로",
+      "unit": "360mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 소주 · 360mL",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-027.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1B3smL_ucKRjKRgYugdUAPKqza52Yi6Ry/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "소주",
+        "alcohol": "",
+        "ingredients": "정제수, 주정, 쌀증류식소주원액(쌀: 국산 100%), 감미료(효소처리스테비아, 에리스리톨, 토마틴)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 진로\n용량: 360mL\n식품유형: 소주\n원재료(판독 항목): 정제수, 주정, 쌀증류식소주원액(쌀: 국산 100%), 감미료(효소처리스테비아, 에리스리톨, 토마틴)\n제조사: 하이트진로(주)\n영양정보: 100mL당 87kcal. 나트륨 0mg, 탄수화물 0g, 당류 0g, 지방 0g, 트랜스지방 0g, 포화지방 0g, 콜레스테롤 0mg, 단백질 0g\n도수의 작은 글씨는 원본 재확인 필요",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 27,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "100mL당 87kcal. 나트륨 0mg, 탄수화물 0g, 당류 0g, 지방 0g, 트랜스지방 0g, 포화지방 0g, 콜레스테롤 0mg, 단백질 0g 도수의 작은 글씨는 원본 재확인 필요"
+      },
+      "isAlcohol": true,
+      "sortOrder": 123,
+      "image": {
+        "sourceBytes": 1538571,
+        "webBytes": 31932,
+        "sourceSize": [
+          1032,
+          2849
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "2767fc91-bda6-5e27-bad9-f8d949b9ef98",
+      "sheetRow": 28,
+      "name": "진로 이즈백",
+      "manufacturer": "하이트진로",
+      "unit": "360mL×6병",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 주류 · 360mL×6병",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-028.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1K4O1oFSFaDZLe3QwqXwgWhjYdzbKq7NA/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 360mL×6병\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 28,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 124,
+      "image": {
+        "sourceBytes": 6783950,
+        "webBytes": 71210,
+        "sourceSize": [
+          3493,
+          3480
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "63ca9feb-4e6f-5195-bb4d-5b02d5553452",
+      "sheetRow": 29,
+      "name": "진로 이즈백",
+      "manufacturer": "하이트진로",
+      "unit": "400mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 소주 · 400mL · 알코올 15.7%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-029.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1vLrRi8AynR76dnEYGmS5rbV2VRBD5xRg/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "소주",
+        "alcohol": "15.7%",
+        "ingredients": "정제수, 주정, 쌀증류식소주원액(쌀: 국산 100%), 감미료(효소처리스테비아, 에리스리톨, 토마틴)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 또는 상표에 표시",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 진로\n용량: 400mL\n식품유형: 소주\n알코올: 15.7%\n원재료(판독 항목): 정제수, 주정, 쌀증류식소주원액(쌀: 국산 100%), 감미료(효소처리스테비아, 에리스리톨, 토마틴)\n제조사: 하이트진로(주)\n영양정보: 100mL당 87kcal\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기 또는 상표에 표시",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 29,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "100mL당 87kcal"
+      },
+      "isAlcohol": true,
+      "sortOrder": 125,
+      "image": {
+        "sourceBytes": 1484630,
+        "webBytes": 27630,
+        "sourceSize": [
+          1024,
+          3004
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "87a47f2f-cff6-536f-a985-d909eab4a87c",
+      "sheetRow": 30,
+      "name": "진로 이즈백",
+      "manufacturer": "하이트진로",
+      "unit": "640mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 소주 · 640mL · 알코올 15.7%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-030.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1MATzmS9RosZ70nM_JIiXl3v-C3jx6VTW/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "소주",
+        "alcohol": "15.7%",
+        "ingredients": "정제수, 주정, 쌀증류식소주원액(쌀: 국산 100%), 감미료(효소처리스테비아, 에리스리톨, 토마틴)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 또는 상표에 표시",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 진로\n용량: 640mL / 559kcal\n식품유형: 소주\n알코올: 15.7%\n원재료(판독 항목): 정제수, 주정, 쌀증류식소주원액(쌀: 국산 100%), 감미료(효소처리스테비아, 에리스리톨, 토마틴)\n제조사: 하이트진로(주)\n영양정보: 100mL당 87kcal\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기 또는 상표에 표시",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 30,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "100mL당 87kcal"
+      },
+      "isAlcohol": true,
+      "sortOrder": 126,
+      "image": {
+        "sourceBytes": 2258568,
+        "webBytes": 30338,
+        "sourceSize": [
+          1331,
+          3647
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "5a9e8ed6-93ab-5ce8-9f47-d672851433fe",
+      "sheetRow": 31,
+      "name": "참이슬 후레쉬",
+      "manufacturer": "하이트진로",
+      "unit": "360mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 소주 · 360mL · 알코올 15.7%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-031.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1LXawAyHA3lYFqxXHzFftJuMjhRDbBNrz/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "소주",
+        "alcohol": "15.7%",
+        "ingredients": "정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 참이슬 후레쉬\n용량: 360mL\n식품유형: 소주\n알코올: 15.7%\n원재료(판독 항목): 정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)\n제조사: 하이트진로\n영양정보: 나트륨 0mg, 탄수화물 0g, 당류 0g, 지방 0g, 트랜스지방 0g, 포화지방 0g, 콜레스테롤 0mg, 단백질 0g",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 31,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "나트륨 0mg, 탄수화물 0g, 당류 0g, 지방 0g, 트랜스지방 0g, 포화지방 0g, 콜레스테롤 0mg, 단백질 0g"
+      },
+      "isAlcohol": true,
+      "sortOrder": 127,
+      "image": {
+        "sourceBytes": 1795950,
+        "webBytes": 28436,
+        "sourceSize": [
+          1135,
+          3312
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "8c6e4fbc-55f0-5e61-97b4-236fd23aee61",
+      "sheetRow": 32,
+      "name": "참이슬 후레쉬",
+      "manufacturer": "하이트진로",
+      "unit": "360mL×6병",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 주류 · 360mL×6병",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-032.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1l1QBiEeh8YJWNd0f66kpUpPNXa_IaupV/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 360mL×6병\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 32,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 128,
+      "image": {
+        "sourceBytes": 8006237,
+        "webBytes": 75266,
+        "sourceSize": [
+          3614,
+          3788
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "20470389-b795-5bf6-9b84-f04a42dd40d2",
+      "sheetRow": 33,
+      "name": "참이슬 후레쉬",
+      "manufacturer": "하이트진로",
+      "unit": "640mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 소주 · 640mL · 알코올 15.7%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-033.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1QBsLgCA5N7pXmZ7meUtFlWxCKmAuoxFa/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "소주",
+        "alcohol": "15.7%",
+        "ingredients": "정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 또는 상표에 표시",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 참이슬 후레쉬\n용량: 640mL\n식품유형: 소주\n알코올: 15.7%\n원재료(판독 항목): 정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)\n제조사: 하이트진로(주)\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기 또는 상표에 표시",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 33,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 129,
+      "image": {
+        "sourceBytes": 1694770,
+        "webBytes": 23338,
+        "sourceSize": [
+          1186,
+          3479
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "5f7bccf5-7df5-5f29-bbeb-598c522c62b6",
+      "sheetRow": 34,
+      "name": "참이슬 후레쉬",
+      "manufacturer": "하이트진로",
+      "unit": "1.8L",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 소주 · 1.8L · 알코올 15.7%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-034.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1cZIpN55pqWqbuxXMaUxi-PP983FkuMhA/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "소주",
+        "alcohol": "15.7%",
+        "ingredients": "정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 또는 상표에 표시",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 참이슬 후레쉬\n용량: 1.8L\n식품유형: 소주\n알코올: 15.7%\n원재료(판독 항목): 정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)\n제조사: 하이트진로(주)\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기 또는 상표에 표시",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 34,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 130,
+      "image": {
+        "sourceBytes": 2362097,
+        "webBytes": 28496,
+        "sourceSize": [
+          1361,
+          3955
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "9c4f3cea-6019-5baa-b992-2fca22b8dd57",
+      "sheetRow": 35,
+      "name": "참이슬 오리지널",
+      "manufacturer": "하이트진로",
+      "unit": "360mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 소주 · 360mL · 알코올 20.1%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-035.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1wMRoFgz-KRyjnX51bXbUlA9qnwAjY7dG/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "소주",
+        "alcohol": "20.1%",
+        "ingredients": "정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 참이슬 오리지널\n용량: 360mL\n식품유형: 소주\n알코올: 20.1%\n원재료: 정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)\n제조사: 하이트진로\n용기: 유리병",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 35,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 131,
+      "image": {
+        "sourceBytes": 1578097,
+        "webBytes": 26782,
+        "sourceSize": [
+          1079,
+          3082
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "2e6ec615-2b05-5061-8df3-cf58eed2629c",
+      "sheetRow": 36,
+      "name": "참이슬 오리지널",
+      "manufacturer": "하이트진로",
+      "unit": "360mL×6병",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 주류 · 360mL×6병",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-036.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1KS6-IlKReFKyr0enUJMlNRC2oFoEXqzW/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 360mL×6병\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 36,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 132,
+      "image": {
+        "sourceBytes": 6890877,
+        "webBytes": 72172,
+        "sourceSize": [
+          3460,
+          3633
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "55210ee9-7c57-5647-8065-78b6e6b78cff",
+      "sheetRow": 37,
+      "name": "참이슬 오리지널",
+      "manufacturer": "하이트진로",
+      "unit": "640mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "하이트진로 · 소주 · 640mL · 알코올 20.1%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-037.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1cV8CPTIgiJLgUiUm5hWumobZEPU5Nb3E/view",
+      "detailSections": {
+        "manufacturer": "하이트진로",
+        "productType": "소주",
+        "alcohol": "20.1%",
+        "ingredients": "정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 또는 상표에 표시",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 참이슬 오리지널\n용량: 640mL\n식품유형: 소주\n알코올: 20.1%\n원재료(판독 항목): 정제수, 주정, 과당, 감미료(효소처리스테비아, 에리스리톨, 토마틴)\n제조사: 하이트진로(주)\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기 또는 상표에 표시",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 37,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 133,
+      "image": {
+        "sourceBytes": 1839669,
+        "webBytes": 24110,
+        "sourceSize": [
+          1231,
+          3581
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "3a9cc312-c344-573e-8c1d-1d9cdd23056e",
+      "sheetRow": 38,
+      "name": "처음처럼",
+      "manufacturer": "롯데칠성음료",
+      "unit": "360mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 소주 · 360mL · 알코올 16.0%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-038.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1lBq5SW8NEQ1esOXNntNZvBZ-XK4wBZVh/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "소주",
+        "alcohol": "16.0%",
+        "ingredients": "정제수, 주정, 알룰로오스, 쌀증류식소주원액(쌀: 국산 100%), 효소처리스테비아, 스테비올배당체",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 또는 뚜껑에 표시",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 처음처럼\n용량: 360mL\n식품유형: 소주\n알코올: 16.0%\n원재료(판독 항목): 정제수, 주정, 알룰로오스, 쌀증류식소주원액(쌀: 국산 100%), 효소처리스테비아, 스테비올배당체\n제조사: 롯데칠성음료(주)\n보관: 직사광선을 피하고 서늘한 곳\n제조일: 용기 또는 뚜껑에 표시",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 38,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 134,
+      "image": {
+        "sourceBytes": 1697511,
+        "webBytes": 31478,
+        "sourceSize": [
+          1052,
+          3054
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "666160a8-cff3-5222-95ee-a6505b70edee",
+      "sheetRow": 39,
+      "name": "처음처럼",
+      "manufacturer": "롯데칠성음료",
+      "unit": "360mL×6병",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 360mL×6병",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-039.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1a_bAn8iGB6NpdZsQ0rYLNuq_fhuKmosu/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 360mL×6병\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 39,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 135,
+      "image": {
+        "sourceBytes": 7627633,
+        "webBytes": 70600,
+        "sourceSize": [
+          3631,
+          3827
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "f769574e-ce7a-507f-95d0-df262228815f",
+      "sheetRow": 40,
+      "name": "처음처럼",
+      "manufacturer": "롯데칠성음료",
+      "unit": "400mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 소주 · 400mL · 알코올 16.0%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-040.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1atZ0WaaHnhhJqYElB9vxcHldZByUiaEb/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "소주",
+        "alcohol": "16.0%",
+        "ingredients": "정제수, 주정, 알룰로오스, 쌀증류식소주원액(쌀: 국산 100%), 효소처리스테비아(감미료), 스테비올배당체(감미료)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳. 뜨거운 곳·유기용매와 함께 두지 말 것",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 상단 또는 뚜껑 표기",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 처음처럼\n용량: 400mL / 356kcal\n식품유형: 소주\n알코올: 16.0%\n원재료: 정제수, 주정, 알룰로오스, 쌀증류식소주원액(쌀: 국산 100%), 효소처리스테비아(감미료), 스테비올배당체(감미료)\n제조사: 롯데칠성음료(주) / 강원도 강릉시 관솔길 7\n제조일: 용기 상단 또는 뚜껑 표기\n보관: 직사광선을 피하고 서늘한 곳. 뜨거운 곳·유기용매와 함께 두지 말 것",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 40,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 136,
+      "image": {
+        "sourceBytes": 1362044,
+        "webBytes": 29420,
+        "sourceSize": [
+          1048,
+          2785
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "a62dbf83-91f6-5e37-b4cb-e3b21f9149b9",
+      "sheetRow": 41,
+      "name": "처음처럼",
+      "manufacturer": "롯데칠성음료",
+      "unit": "640mL",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 소주 · 640mL · 알코올 16.0%",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-041.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1kroATrNf31XNEtYW37qZYWS75UcILNwc/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "소주",
+        "alcohol": "16.0%",
+        "ingredients": "정제수, 주정, 알룰로오스, 쌀증류식소주원액(쌀: 국산 100%), 효소처리스테비아(감미료), 스테비올배당체(감미료)",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "직사광선을 피하고 서늘한 곳. 뜨거운 곳·유기용매와 함께 두지 말 것",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "용기 상단 또는 뚜껑 표기",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "제품명: 처음처럼\n용량: 640mL / 570kcal\n식품유형: 소주\n알코올: 16.0%\n원재료: 정제수, 주정, 알룰로오스, 쌀증류식소주원액(쌀: 국산 100%), 효소처리스테비아(감미료), 스테비올배당체(감미료)\n제조사: 롯데칠성음료(주) / 강원도 강릉시 관솔길 7\n제조일: 용기 상단 또는 뚜껑 표기\n보관: 직사광선을 피하고 서늘한 곳. 뜨거운 곳·유기용매와 함께 두지 말 것",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 41,
+        "photoStatus": "앞·뒤 완료"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 137,
+      "image": {
+        "sourceBytes": 1807361,
+        "webBytes": 27150,
+        "sourceSize": [
+          1214,
+          3403
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    },
+    {
+      "id": "12e4613b-70d9-5247-a589-0ec3d6d9a530",
+      "sheetRow": 42,
+      "name": "처음처럼",
+      "manufacturer": "롯데칠성음료",
+      "unit": "640mL×4병",
+      "price": 10000,
+      "category": "주류/음료",
+      "description": "롯데칠성음료 · 주류 · 640mL×4병",
+      "origin": "상품 포장지 상세표기 참조",
+      "imageUrl": "https://motf.co.kr/assets/market/daesung/product-042.webp",
+      "sourceImageUrl": "https://drive.google.com/file/d/1sqERP4tp9EcEwnhYeM6sIfrsD9esBmby/view",
+      "detailSections": {
+        "manufacturer": "롯데칠성음료",
+        "productType": "주류",
+        "alcohol": "",
+        "ingredients": "상품 포장지 표기 참조",
+        "allergens": "상품 포장지 표기 참조",
+        "storage": "상품 포장지 표기 및 판매자 안내에 따릅니다.",
+        "expiry": "수령 상품의 포장지에서 확인해주세요.",
+        "manufacturedAt": "수령 상품의 포장지에서 확인해주세요.",
+        "cautions": "성인인 주문자 본인이 판매 영업장에서 신분증 확인 후 수령해야 합니다.",
+        "sellerNote": "단가는 등록 테스트용 10,000원입니다. 실제 판매 전 재고와 판매가를 확인해주세요.",
+        "fullText": "앞면만 촬영된 묶음상품입니다.\n촬영 앞면 규격: 640mL×4병\n뒷면 미촬영으로 상세 원재료·영양정보는 미확인입니다.",
+        "importSource": "google-sheet:11c1HDFn069x4ghtMJaAQZsVFa69zNTeevvOY-BwFN-I:gid-479454213",
+        "sourceSheetRow": 42,
+        "photoStatus": "앞면만 촬영"
+      },
+      "nutritionInfo": {
+        "description": "상품 포장지 표기 참조"
+      },
+      "isAlcohol": true,
+      "sortOrder": 138,
+      "image": {
+        "sourceBytes": 6927130,
+        "webBytes": 57922,
+        "sourceSize": [
+          2908,
+          4252
+        ],
+        "webSize": [
+          1000,
+          1000
+        ]
+      }
+    }
+  ]
+}
