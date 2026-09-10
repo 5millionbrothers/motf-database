@@ -4,10 +4,9 @@
 
 ## 목적
 
-카카오 알림톡 딜러사를 선택하기 전에도 알림 시스템 개발을 진행하기 위한 기초 구조입니다.
+알림톡 발송 대기열, 이벤트 트리거, 즉시 발송과 재시도를 관리하는 구조입니다.
 
-현재 단계에서는 실제 카카오톡 메시지를 보내지 않고 `mock_sent` 상태로 처리합니다.  
-나중에 SOLAPI, NHN Cloud, 비즈톡 등 딜러사를 선택하면 `api/notifications-dispatch.js`의 mock 발송 부분을 실제 API 호출로 교체합니다.
+`api/notifications-dispatch.js`는 `ALIGO_LIVE_ENABLED` 설정에 따라 알리고 실발송 또는 `mock_sent` 테스트 발송을 사용합니다. Supabase 즉시 호출이 실패하더라도 Vercel의 5분 크론이 대기열을 다시 처리합니다.
 
 ## 구성
 
@@ -44,8 +43,8 @@ motf-prototype/api/notifications-dispatch.js
 역할:
 
 1. `notification_outbox`에서 `queued` 상태 알림을 가져옵니다.
-2. 현재는 실제 발송 대신 mock 발송 처리합니다.
-3. 성공 시 `mock_sent` 상태로 변경하고 `notification_logs`에 기록합니다.
+2. 운영 설정에서는 알리고 API로, 테스트 설정에서는 mock으로 발송합니다.
+3. 성공 시 `sent` 또는 `mock_sent` 상태로 변경하고 `notification_logs`에 기록합니다.
 4. 실패 시 재시도 가능하도록 다시 `queued` 또는 최종 `failed`로 기록합니다.
 
 ## 보안
@@ -114,8 +113,8 @@ motf-database/supabase/41_notification_event_hooks.sql
 
 ## 다음 단계
 
-1. 딜러사 선택
-2. 승인된 템플릿 코드 입력
-3. 실제 발송 API 연결
-4. 사장님 수락/취소용 일회용 토큰 페이지 구현
-5. 입금 기한 임박 알림용 스케줄러 추가
+1. 결제수단 중립 문구의 V2 템플릿 승인 및 코드 매핑
+2. 토스 가상계좌 활성화 전 `WAITING_FOR_DEPOSIT`/`DEPOSIT_CALLBACK` 보완
+3. 체크인·픽업·리뷰 요청 스케줄 알림 추가
+
+상세 점검 결과는 `docs/payment-notification-audit-20260911.md`를 참고합니다.
