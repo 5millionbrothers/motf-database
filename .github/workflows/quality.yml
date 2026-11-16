@@ -21,7 +21,7 @@ jobs:
           declare -A seen
           for file in "${files[@]}"; do
             name="$(basename "$file")"
-            if [[ ! "$name" =~ ^[0-9]{2}[A-Z]?_.+\.sql$ ]]; then
+            if [[ ! "$name" =~ ^([0-9]{2}|[1-9][0-9]{2,})[A-Z]?_.+\.sql$ ]]; then
               echo "Invalid migration filename: $name"
               exit 1
             fi
